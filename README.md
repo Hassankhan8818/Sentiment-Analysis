@@ -2,6 +2,9 @@
 
 This repository contains a Jupyter Notebook that performs sentiment analysis on a dataset of product reviews using natural language processing (NLP) techniques, combining the VADER sentiment analysis model and the RoBERTa transformer model from Hugging Face. This project provides a comprehensive approach to understanding and visualizing customer sentiment, making it suitable for applications like customer feedback analysis or social media sentiment monitoring.
 
+You can download the data from the link given below:
+
+https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews?resource=download
 ## Features
 
 1.  **Data Loading and Exploration**:
